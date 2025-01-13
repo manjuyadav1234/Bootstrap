@@ -1,0 +1,26 @@
+.container{
+   
+.row{
+   
+   
+
+}
+.col{
+    
+    
+}  
+#header{
+background-color:pink;
+}
+#menu{
+    background-color:orange;
+    }
+#content{
+    background-color:yellowgreen;
+    }
+    #aside{
+        background-color:yellow;
+    }
+    #footer{
+        background-color: peachpuff;
+    }
