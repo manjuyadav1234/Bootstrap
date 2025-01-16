@@ -1,0 +1,29 @@
+.container{
+border:10px solid black;
+}
+.row{
+    border:0px solid pink;
+}
+.orange{
+    background: orange;
+    font-size: 20px; 
+}
+.pink{
+    background: pink; 
+    font-size: 18px; 
+}
+.yellow{
+    background: yellow; 
+    font-size: 15px; 
+}
+.green{
+    background: green; 
+    font-size: 12px; 
+}
+.blue{
+    background: blue; 
+}
+row1{
+    height:2000px;
+    width:1500px;
+}
